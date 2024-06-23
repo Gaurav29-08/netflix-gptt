@@ -1,10 +1,7 @@
-import './App.css';
-
+import Body from "./components/Body";
 function App() {
-  return (
-    <div className="font-bold text-red-700">
-  <p>Hello, I am learning React</p>
-    </div>
+  return(
+<Body />
   );
 }
 
