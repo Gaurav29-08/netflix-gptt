@@ -28,7 +28,7 @@ const name = useRef(null);
   const handleButtonClick = ()=>{
     const message = checkValidData(email.current.value,password.current.value);
     setErrorMessage(message);
-    console.log(message);
+   
 
 
    if(message) return;
