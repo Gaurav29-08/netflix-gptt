@@ -35,6 +35,8 @@
 - TMBD image CDN
 - made the browse page amazing with tailwind css
 - usePopular movies custom hooks
+- GPT search feature
+- Multi - langauge feature in our App
 
 
 # Features
