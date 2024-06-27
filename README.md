@@ -29,7 +29,7 @@
  - update store with trailer video data 
  - embeded the you tube video and make it auto play and mute 
  - tailwind classes to make mainContainer look awesome 
-
+- build secondary container 
 
 # Features
 
