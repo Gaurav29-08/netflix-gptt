@@ -58,6 +58,7 @@
     - Search Bar
     - Movie Suggestions
  
+<img width="1440" alt="Screenshot 2024-07-04 at 2 23 37 PM" src="https://github.com/Gaurav29-08/netflix-gptt/assets/83288497/61549670-1714-47a6-8955-5f2e7f98e8b0">
 
 
  
