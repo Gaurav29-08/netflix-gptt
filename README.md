@@ -1,3 +1,8 @@
+
+GPTFLIX is a web application for streaming the latest movies, featuring a movie recommendation system powered by OpenAI's GPT APIs. The frontend is built with React and Redux, while Firebase is used for user authentication
+
+All the commits ->
+
 - create react app
 - configured tailwindCSS
 - Header
@@ -40,6 +45,18 @@
 
 
 # Features
+
+- GPT Movie Search: Utilize AI to find movies that match any query, no matter how detailed, with our GPT-powered search feature that provides 5 movie recommendations.
+
+- Comprehensive Info: Access detailed information including plot summaries, trailers, and cast details for your favorite films on GPTFLIX.
+
+- Device-Friendly: Enjoy a seamless experience on any device, be it a desktop, tablet, or smartphone, with Madflix.
+
+- Secure Access: Protect your account with robust user authentication, featuring easy login, signup, and password recovery.
+
+- Explore Cast: Discover all movies featuring any actor or actress by simply clicking on their name, broadening your cinematic exploration.
+
+- Diverse Movie Categories: Dive into a curated selection of movies on the homepage, categorized as Now Playing, Discover, Top Rated, All-Time Favorites, and Popular, powered by TMDB API.
 
 
  
