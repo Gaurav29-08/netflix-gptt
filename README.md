@@ -58,4 +58,7 @@
     - Search Bar
     - Movie Suggestions
  
+
+  ![Uploading Screenshot 2024-07-04 at 2.23.37 PM.png…]()
+ 
  
