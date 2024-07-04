@@ -60,5 +60,8 @@
  
 <img width="1440" alt="Screenshot 2024-07-04 at 2 23 37 PM" src="https://github.com/Gaurav29-08/netflix-gptt/assets/83288497/61549670-1714-47a6-8955-5f2e7f98e8b0">
 
+<img width="1439" alt="Screenshot 2024-07-04 at 2 29 10 PM" src="https://github.com/Gaurav29-08/netflix-gptt/assets/83288497/0f4c359f-7928-4701-aaee-d353afda9d98">
+
+
 
  
